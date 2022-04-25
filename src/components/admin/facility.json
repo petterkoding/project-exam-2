@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "TV"
+    },
+
+    {
+        "id": 2,
+        "name": "Kitchen"
+    },
+
+    {
+        "id": 3,
+        "name": "Wash machine"
+    },
+
+    {
+        "id": 4,
+        "name": "Fridge"
+    },
+
+    {
+        "id": 5,
+        "name": "Dining room"
+    },
+
+    {
+        "id": 6,
+        "name": "Wifi"
+    },
+
+    {
+        "id": 7,
+        "name": "Parking"
+    },
+
+    {
+        "id": 8,
+        "name": "Minibar"
+    }
+
+]
